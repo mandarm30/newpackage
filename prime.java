@@ -20,3 +20,8 @@ public class Prime {
             System.out.println(num + " is not a prime number.!!!!");
     }
 }
+
+/* This is good logic on Prime number
+Good Job Rashmi
+*/
+Comments given by Mandar
